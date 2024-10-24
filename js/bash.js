@@ -116,7 +116,6 @@ $('doucument').ready(function(){
 
     });
 
-    generateEncryptionKey()
 
 });
 
