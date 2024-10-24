@@ -30,7 +30,7 @@ body {
 
 
 .browser {
-  height: 75vh;
+  min-height: 75vh;
   width: 65vw;
   border-radius: 10px 30px;
   background: #333;
